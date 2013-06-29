@@ -1,4 +1,4 @@
-package za.co.stockout;
+package za.co.stockout.web;
 
 import java.text.DateFormat;
 import java.util.Date;
